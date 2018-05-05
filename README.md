@@ -1,10 +1,10 @@
-# AGCoffee Ratio
+# AGScreenshot
 <div align="center">
 <img width=300 src="https://raw.githubusercontent.com/RuizJames978/Coffee-Ratio/master/Image/logo.jpg">
 
 <br> <br>
 
-<h1> AGCoffee Ratio </h1>
+<h1> AGScreenshot </h1>
 <h3> </h3></div>
 
 <br>
@@ -15,8 +15,10 @@
 <table align="center" border="0">
 
 <tr>
-<td> <img src="https://raw.githubusercontent.com/RuizJames978/Coffee-Ratio/master/Image/IMG_8319.JPG"> </td>
-<td> <img src="https://raw.githubusercontent.com/RuizJames978/Coffee-Ratio/master/Image/IMG_8320.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/FennellTina/AGScreenshot/master/IMG/1.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/FennellTina/AGScreenshot/master/IMG/2.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/FennellTina/AGScreenshot/master/IMG/3.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/FennellTina/AGScreenshot/master/IMG/4.png"> </td>
 </tr>
 
 <tr>
@@ -28,38 +30,24 @@
 
 ### Description
 <br>
-AGCoffee Ratio  app made to help home brewers brew their coffee by calculating a the grams of water needed, and run a timer all in the same screen.
+AGScreenshot is a powerful screen capture tool.
+Easy a few steps, you can create a tall application store screenshots, so that your APP people shines, enhance the download.
 <br>
-With the addition of the segmented control: When you are in Grams mode, the number you enter into the big box is coffee in grams and the large output is the water in grams.
+feature:
 <br>
-When you are in TBSP mode, the number you enter into the big box is coffee in tablespoons and the large output is water in cups.
+Popular template, stable update the latest popular popular template.
 <br>
-The bottom right box (18.5 is the default Grams value) is amount of water for coffee:water ratio So when you are in Grams mode, you get a 1:18.5 ratio and the water amount is changeable. I personally use 1:16.8
+Easy to use, you just type in the title text selection template to generate it.
 <br>
-When you are in TBSP mode, You get a 1:0.375 ratio which is 1 TBSP to 0.375 cups of water ratio. This is also changeable.
+Generate in batches, eliminating the need for repeated iterations.
 <br>
-This is perfect for:
-<br>
-Chemex
-<br>
-French Press
-<br>
-V60
-<br>
-Drip Pot
-<br>
-other slow bar methods
-<br>
-
 ### User Information
-akgoaf@163.com
+lzatgj@163.com
 <br>
-tell: +60133882386
+tell: +60133680676
 
-## License
 
-[The MIT license](/LICENSE)
 
 ## Author
 
-[@RuizJames]
+[@FennellTina]
