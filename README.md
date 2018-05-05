@@ -1,6 +1,6 @@
 # AGScreenshot
 <div align="center">
-<img width=300 src="https://raw.githubusercontent.com/RuizJames978/Coffee-Ratio/master/Image/logo.jpg">
+<img width=300 src="https://raw.githubusercontent.com/FennellTina/AGScreenshot/master/IMG/IMG_0018.jpg">
 
 <br> <br>
 
@@ -31,6 +31,7 @@
 ### Description
 <br>
 AGScreenshot is a powerful screen capture tool.
+<br>
 Easy a few steps, you can create a tall application store screenshots, so that your APP people shines, enhance the download.
 <br>
 feature:
@@ -41,6 +42,7 @@ Easy to use, you just type in the title text selection template to generate it.
 <br>
 Generate in batches, eliminating the need for repeated iterations.
 <br>
+
 ### User Information
 lzatgj@163.com
 <br>
